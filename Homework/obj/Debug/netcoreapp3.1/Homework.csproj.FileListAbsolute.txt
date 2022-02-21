@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Masaüstü\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
